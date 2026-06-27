@@ -1,22 +1,21 @@
-# 🍃 Matcha
+# Matcha
 
 A fun and responsive memory card matching game built with **React** and **TypeScript**, featuring live image data, smooth animations, and accessibility-focused gameplay.
 
-🔗 **Live Demo:** YOUR_DEPLOYED_URL
-📦 **Repository:** YOUR_GITHUB_REPO_URL
+**Live Demo:** https://matcha-two-topaz.vercel.app/
 
-## ✨ Features
+## Features
 
-* 🎨 Three unique themes: Pokémon, Juices, and World Desserts
-* 🎯 Multiple difficulty levels (Easy, Medium, Hard)
-* 📱 Fully responsive, no-scroll game board
-* ⚡ Smooth card-flip and match animations
-* ⏱️ Move counter, timer, and best-score tracking
-* 🌐 Live data fetched from public APIs
-* ♿ Keyboard-accessible and screen-reader friendly
-* 💾 Best scores saved with localStorage
+* Three unique themes: Pokémon, Juices, and World Desserts
+* Multiple difficulty levels (Easy, Medium, Hard)
+* Fully responsive, no-scroll game board
+* Smooth card-flip and match animations
+* Move counter, timer, and best-score tracking
+* Live data fetched from public APIs
+* Keyboard-accessible and screen-reader friendly
+* Best scores saved with localStorage
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * React 18
 * TypeScript
@@ -24,7 +23,7 @@ A fun and responsive memory card matching game built with **React** and **TypeSc
 * CSS Grid & Custom Animations
 * Local Storage API
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 npm install
@@ -37,13 +36,13 @@ Build for production:
 npm run build
 ```
 
-## 🌍 APIs Used
+## APIs Used
 
 * PokeAPI
 * TheCocktailDB
 * TheMealDB
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 src/
@@ -55,7 +54,7 @@ src/
 └── App.tsx
 ```
 
-## 🚢 Deployment
+## Deployment
 
 Deployed on Vercel with automatic deployments from the `main` branch.
 
