@@ -2,8 +2,7 @@
 
 A memory-match (pairs) game with a bright, playful "Curiosity Carnival" visual style — built as a frontend portfolio project to demonstrate React, TypeScript, state management, responsive layout, async data fetching, and accessibility.
 
-🔗 **Live demo:** [your-live-url-here](https://your-live-url-here.vercel.app) <!-- TODO: replace with your actual deployed URL -->
-📦 **Repo:** [github.com/your-username/matcha](https://github.com/your-username/matcha) <!-- TODO: replace with your actual repo URL -->
+🔗 **Live demo:** https://matcha-two-topaz.vercel.app/ <!-- TODO: replace with your actual deployed URL -->
 
 ## Tech Stack
 
